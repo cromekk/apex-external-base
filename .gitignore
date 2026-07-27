@@ -1,0 +1,18 @@
+# Visual Studio / C++
+.vs/
+Debug/
+Release/
+x64/
+x86/
+build/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.lib
+*.dll
+*.log
